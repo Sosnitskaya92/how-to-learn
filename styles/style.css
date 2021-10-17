@@ -154,7 +154,7 @@
   width: 1100px;
   display:flex;
   flex-wrap: wrap;
-  justify-content: space-between; 
+  justify-content: space-between;
   margin: 0;
   padding: 0;
 }
@@ -172,7 +172,7 @@
 }
 
 .table__text {
-  margin: 20px 0 0 ;
+  margin: 20px 0 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
