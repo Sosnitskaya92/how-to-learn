@@ -5,4 +5,5 @@
   right: 0;
   width: 568px;
   height: 568px;
+  z-index: -1;
 }

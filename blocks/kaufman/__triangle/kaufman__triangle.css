@@ -6,4 +6,5 @@
   top: 0;
   right: -210px;
   background-size: cover;
+  z-index: -1;
 }
