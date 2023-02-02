@@ -1,7 +1,7 @@
 # How-to-learn - Научиться учиться. 
 
 <div align="center">
-<img src="https://media.giphy.com/media/hU9Y7TGt802eckrmJw/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/hU9Y7TGt802eckrmJw/giphy.gif" width="150" alt="книжки">
 </div>
 
 ##  ***Функционал:***
@@ -15,8 +15,8 @@
 *Содержимое сайта оформлено* в виде текста, изображений, видеороликов, а также ссылок.  
 
 ## ***СТЕК:***
-* <img src="./images/html.svg" height="20">**HTML** - язык, который создает каркас сайта
-* <img src="./images/css.svg" height="20">**CSS** - язык стилей.  
+* <img src="./images/html.svg" height="20" alt="html">**HTML** - язык, который создает каркас сайта
+* <img src="./images/css.svg" height="20" alt="css">**CSS** - язык стилей.  
 
 Файловая структура CSS создана по методологии БЭМ.   
 
